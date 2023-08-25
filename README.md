@@ -20,16 +20,9 @@
 ## 📊 GitHub Stats:
 
 <div style="display: flex; flex-wrap: wrap; align-items:center; justify-content:space-between;">
-<div style="flex: 50%; padding: 10px;">
 
-![](https://github-readme-stats.vercel.app/api?username=mirjabbarbadalov&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-</div >
 
-<div style="flex: 50%; ">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=mirjabbarbadalov&theme=react&hide_border=false)<br/>
-
-</div>
+>
 
 <div style=" margin: 0 auto;">
 
@@ -38,24 +31,6 @@
 </div>
 
 </div>
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mirjabbarbadalov&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mirjabbarbadalov&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-<div style="display: flex; flex-wrap: wrap; align-items:center; justify-content:space-between; gap: 10px;">
-
-<div style="flex: 45%">
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-</div>
-
 
 </div>
 
