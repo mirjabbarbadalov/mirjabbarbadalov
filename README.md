@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Instagram clone<br><br>🌱 I’m currently learning React, Node.js<br><br>👨‍💻 All of my projects are available at https://github.com/mirjabbarbadalov<br><br>💬 Ask me about Js<br><br>📫 How to reach me mirishbedelov08@gmail.com
+🔭 I’m currently working on Simulink Projects<br><br>🌱 I’m currently learning Eplan, Autocad Electrical<br><br>👨‍💻 All of my projects are available at https://github.com/mirjabbarbadalov<br><br>💬 Ask me about Electric<br><br>📫 How to reach me mirjabbarbadalov@gmail.com
 
 
 ## 🌐 Socials:
