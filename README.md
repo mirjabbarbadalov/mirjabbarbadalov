@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrcbedelov) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mirjabbarbadalov) [![Medium](https://img.shields.io/badge/HashnodeBlog-%232962FF?color=blue
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/miriisshh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mirjabbarbadalov) [![Medium](https://img.shields.io/badge/HashnodeBlog-%232962FF?color=blue
 )](https://mirjabbarbadalov.hashnode.dev/)
 
 <div style="display: block; margin: 0 auto;">
