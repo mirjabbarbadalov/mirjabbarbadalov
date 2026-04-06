@@ -17,16 +17,6 @@
 
 
 
-## 📊 GitHub Stats:
-
-<div style="display: flex; flex-wrap: wrap; align-items:center; justify-content:space-between;">
-
-
->
-
-<div style=" margin: 0 auto;">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mirjabbarbadalov&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
