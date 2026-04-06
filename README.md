@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Eplan P8 Electric Projects<br><br>🌱 I’m currently learning Eplan, Autocad Electrical<br><br>👨‍💻 All of my projects are available at https://github.com/mirjabbarbadalov<br><br>💬 Ask me about Energy<br><br>📫 How to reach me mirjabbarbadalov@gmail.com
+🔭 I’m currently working on Eplan P8 Electric Projects<br><br>🌱 I’m currently learning Eplan, Power World Simulator, PSCAD<br><br>👨‍💻 All of my projects are available at https://github.com/mirjabbarbadalov<br><br>💬 Ask me about Energy<br><br>📫 How to reach me mirjabbarbadalov@gmail.com
 
 
 ## 🌐 Socials:
